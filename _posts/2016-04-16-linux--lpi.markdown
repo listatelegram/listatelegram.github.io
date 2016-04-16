@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Linux + LPI"
+categories: 
+link-telegram: https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw
+---
+Bot para estudos do grupo “Linux + LPI”
+https://telegram.me/GrupoLinuxbot
+Contribuição: Reginaldo (@Saitam10)
+
