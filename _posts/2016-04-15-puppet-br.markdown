@@ -2,6 +2,6 @@
 layout: post
 title:  "Puppet BR"
 categories: jekyll update
+link-telegram: https://telegram.me/puppetbr
 ---
-Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
-
+Contribuição: Guto Carvalho (@gutocarvalho)

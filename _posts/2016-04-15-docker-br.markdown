@@ -4,5 +4,4 @@ title:  "Docker Users BR"
 categories: jekyll update
 link-telegram: https://telegram.me/dockerbr
 ---
-Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
-
+Colaboração: Rafael Gomes (@gomex)
