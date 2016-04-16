@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Puppet BR"
+categories: jekyll update
+---
+Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
+
