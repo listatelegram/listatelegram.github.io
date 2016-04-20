@@ -2,7 +2,8 @@
 layout: post
 title:  "Samba4"
 categories: 
-link-telegram: https://telegram.me/joinchat/BtO01gI_MmSflgUf3liF-g
+link-telegram: https://telegram.me/Samba4BR
 ---
-
+Grupo de usuários do Samba na versão 4, assuntos sobre Samba 3 também são aceitos mas não é o foco do grupo
+Contribuição: Igor Motta(@Igmotta)
 
