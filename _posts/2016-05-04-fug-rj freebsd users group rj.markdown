@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "FUG-RJ (FreeBSD Users Group - RJ)"
 categories: freebsd
