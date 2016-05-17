@@ -2,7 +2,7 @@
 layout: post
 title:  "GLPI"
 categories: 
-link-telegram: https://telegram.me/joinchat/BH3XOAC4F68mzj-tKc6xoQ
+link-telegram: https://telegram.me/joinchat/BH3XOD71hLxhIposgfvXAQ
 ---
 Contribuição: Kleber Ribeiro (@nk3info)
 
