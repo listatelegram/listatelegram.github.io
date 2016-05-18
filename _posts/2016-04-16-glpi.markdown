@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "GLPI"
+title:  "GLPI e Gestão de Service Desk"
 categories: 
-link-telegram: https://telegram.me/joinchat/BH3XOD71hLxhIposgfvXAQ
+link-telegram: https://telegram.me/glpibr
 ---
 Contribuição: Kleber Ribeiro (@nk3info)
+Atualizado Por Victor França em 18/05/2016
 
