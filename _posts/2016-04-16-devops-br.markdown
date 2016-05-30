@@ -2,7 +2,7 @@
 layout: post
 title:  "DevOps BR"
 categories: 
-link-telegram: https://telegram.me/joinchat/AxrvtAOCKuIHCih17PT7Qg
+link-telegram: https://telegram.me/devopsbr
 ---
 Contribuição: Tales Santos (@Talesteixeira)
 
