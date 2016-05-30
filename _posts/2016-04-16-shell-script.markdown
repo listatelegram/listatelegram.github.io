@@ -2,7 +2,7 @@
 layout: post
 title:  "Shell Script"
 categories: 
-link-telegram: https://telegram.me/joinchat/A733uQf7AAw5DTo1kFWCFA
+link-telegram: https://telegram.me/shellbr
 ---
 Contribuição: Júlio Saraiva (@Julinux)
 
