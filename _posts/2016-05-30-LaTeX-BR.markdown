@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Docker Users BR"
+title:  "LaTeX BR"
 categories: jekyll update
-link-telegram: https://telegram.me/dockerbr
+link-telegram: https://telegram.me/latexbr
 ---
-Colaboração: Rafael Gomes (@gomex)
+Colaboração: Juliano Dorneles dos Santos (@julianodorneles)
