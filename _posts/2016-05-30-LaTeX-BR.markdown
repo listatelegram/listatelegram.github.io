@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "LaTeX BR"
+categories: jekyll update
+link-telegram: https://telegram.me/latexbr
+---
+Colaboração: Juliano Dorneles dos Santos (@julianodorneles)
