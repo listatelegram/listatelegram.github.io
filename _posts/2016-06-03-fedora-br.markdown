@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Fedora Brasil"
+categories: jekyll update
+link-telegram: https://telegram.me/fedorabr
+---
+Colaboração: Itamar Reis Peixoto (@itamarjp)
