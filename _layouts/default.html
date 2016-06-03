@@ -5,16 +5,28 @@
 
   <body>
 
-    {% include header.html %}
+    <div class="ui container">
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+
+      <br>
+      <h1 class="center-text">Lista Telegram<br><small><em>Uma lista de grupos para discussões técnicas</em></small></h1>
+
+      {% include menu.html %}
+
+      <div class="ui divider"></div>
+      <br>
+
+      <div class="ui stackable grid">
+
+        <div class="sixteen wide column">
+          {{ content }}
+        </div>
+
       </div>
+
     </div>
 
-    {% include footer.html %}
-
+  <script src="js/script.js" charset="utf-8"></script>
   </body>
 
 </html>
