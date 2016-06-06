@@ -4,4 +4,7 @@ title:  "LaTeX BR"
 categories: jekyll update
 link-telegram: https://telegram.me/latexbr
 ---
-Colaboração: Juliano Dorneles dos Santos (@julianodorneles)
+Grupo de discussão: https://telegram.me/latexbr
+Canal com aulas, dicas e tutoriais: https://telegram.me/latexfacil
+
+Colaboração: Juliano Dorneles dos Santos (@julianodorneles - https://telegram.me/julianodorneles)
