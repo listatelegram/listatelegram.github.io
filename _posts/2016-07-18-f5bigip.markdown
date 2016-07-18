@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "F5"
 categories: f5 bigip
