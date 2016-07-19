@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FreeBSD"
+categories: 
+link-telegram: https://goo.gl/cIDktA
+---
+Contribuição: Reginaldo (@Saitam10)
+
