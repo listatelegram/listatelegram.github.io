@@ -1,7 +1,7 @@
----
+ï»¿---
 layout: post
-title:  "Sistemas da Informação"
-categories: Sistemas da Informação
+title:  "Sistemas da InformaÃ§Ã£o"
+categories: Sistemas da InformaÃ§Ã£o
 link-telegram: https://telegram.me/sistemasdainformacao
 ---
-Colaboração: Diego Voltolini (@diegovolt)
+ColaboraÃ§Ã£o: Diego Voltolini (@diegovolt)

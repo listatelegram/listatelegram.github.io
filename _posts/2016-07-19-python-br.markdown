@@ -1,7 +1,7 @@
----
+ï»¿---
 layout: post
 title:  "Python BR"
 categories: Python
 link-telegram: https://telegram.me/PyCoding
 ---
-Colaboração: Diego Voltolini (@diegovolt)
+ColaboraÃ§Ã£o: Diego Voltolini (@diegovolt)
