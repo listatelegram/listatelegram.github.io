@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tudo sobre TI"
 categories: TI em geral
