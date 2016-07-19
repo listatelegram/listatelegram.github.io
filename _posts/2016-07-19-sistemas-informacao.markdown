@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Sistemas da Informação"
 categories: Sistemas da Informação
