@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Linux-SE"
+categories: Linux
+link-telegram: https://telegram.me/linux_se
+---
+Grupo de usuários/administradores de sistemas GNU/Linux de Sergipe
+Colaboração: Antonio Augusto Santos (@manchaaugusto)
