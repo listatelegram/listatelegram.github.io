@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PUG-SE"
+categories: Python
+link-telegram: https://telegram.me/pugse
+---
+Python Users Group de Sergipe
+Colaboração: Antonio Augusto Santos (@manchaaugusto)
