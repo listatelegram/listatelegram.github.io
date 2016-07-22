@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "GNUGRAF - Softwares Livres para Trabalho Gráficos"
+categories: SL, Gráfico
+link-telegram: https://telegram.me/grupoGNUGRAF
+---
+Colaboração: Aurélio A. Heckert (@aurium)
