@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python BR"
+title:  "PyCoding - pt_BR"
 categories: Python
 link-telegram: https://telegram.me/PyCoding
 ---
