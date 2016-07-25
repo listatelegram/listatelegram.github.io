@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expressões Regulares"
+title:  "Expressões Regulares (EXPIRADO)"
 categories: 
 link-telegram: https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ
 ---
