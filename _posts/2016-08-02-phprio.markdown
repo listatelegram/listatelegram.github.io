@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "PHP Rio"
+categories: jekyll update
+link-telegram: https://telegram.me/phprio
+---
+Colaboração: Igor de Paula (@igorCP)
