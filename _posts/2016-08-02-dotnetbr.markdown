@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ".NET Brasil"
-categories: jekyll update
+categories: 
 link-telegram: https://telegram.me/dotnetbr
 ---
 Colaboração: Rafael Escobar (@nhanderu)
