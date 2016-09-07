@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ActiveMQ and Messaging Technologies (em Inglês)"
+categories: jekyll update
+link-telegram: https://telegram.me/activemq
+---
+Colaboração: Otavio R. Piske (@orpiske)
