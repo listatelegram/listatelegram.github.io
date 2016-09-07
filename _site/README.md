@@ -1,13 +1,25 @@
-# Gravity
-![alt tag](https://farm2.staticflickr.com/1593/25549169123_cfb392bfe9.jpg)
+# Lista de grupos técnicos do Telegram
 
-![alt-tag](https://farm2.staticflickr.com/1592/26151881165_3f351e5fd1.jpg)
+A ideia dessa página é reunir todos os grupos técnicos que existem no Telegram.
 
-![alt-tag](https://farm2.staticflickr.com/1674/25549273413_dd4469f34b.jpg)
+## Reproduzindo esse site na sua estação com docker
 
+Primeiro baixe todo esse código:
 
+```
+git clone git@github.com:listatelegram/listatelegram.github.io.git
+```
 
-![alt-tag](https://farm2.staticflickr.com/1587/26151926265_2108719c91.jpg)
+Depois acesse a pasta listatelegram
 
-![alt-tag](https://farm2.staticflickr.com/1565/25879042020_03acf3c968_o.png)
+Caso esteja usando MacOS, execute o seguinte comando:
 
+```
+docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll   -it -p $(docker-machine ip `docker-machine active`):4000:4000 jekyll/jekyll
+```
+
+Caso esteja usando GNU/Linux, execute o seguinte comando:
+
+```
+docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jekyll/jekyll
+```

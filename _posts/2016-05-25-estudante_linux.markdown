@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Estudante Linux"
 categories: jekyll update

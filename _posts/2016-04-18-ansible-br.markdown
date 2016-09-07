@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Ansible BR"
 categories: jekyll update
