@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "elastic-users-br"
+title:  "rancher-users-br"
 categories: 
-link-telegram: https://telegram.me/elasticbr
+link-telegram: https://telegram.me/rancherbr
 ---
 Contribuição: Guto Carvalho (@gutocarvalho)
+

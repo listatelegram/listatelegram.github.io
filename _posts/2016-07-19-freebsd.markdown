@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "FreeBSD"
+categories: 
+link-telegram: https://goo.gl/cIDktA
+---
+Bot para estudos do grupo “GrupoFreeBSD”
+https://telegram.me/GrupoFreeBSDbot
+
+Contribuição: Reginaldo (@Saitam10)
+

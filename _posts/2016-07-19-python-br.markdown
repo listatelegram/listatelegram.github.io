@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "PyCoding - pt_BR"
+categories: Python
+link-telegram: https://telegram.me/PyCoding
+---
+Colaboração: Diego Voltolini (@diegovolt)
