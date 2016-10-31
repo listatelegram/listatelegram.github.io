@@ -4,5 +4,5 @@ title:  "Java"
 categories: Google Developers, Android, Google Cloud
 link-telegram: https://telegram.me/javaofficial
 ---
-Grupo oficial de usuários Java no telegram
+Grupo oficial de usuários Java no telegram (mensagens apenas em inglês).
 Colaboração: Christiano Linuxmen (@Christiano_Linuxmen)
