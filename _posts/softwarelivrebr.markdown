@@ -3,4 +3,4 @@ title:  "Software Livre BR"
 categories:
 link-telegram: https://telegram.me/softwarelivrebr
 ---
-Contribuição: Jureci Filho (@jfilho
+Contribuição: Jureci Filho (@jfilho)
