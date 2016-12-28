@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Backup Administrators"
+categories: jekyll update
+link-telegram: https://telegram.me/bkpadm
+---
+Colaboração: Josué Salomão (@JosueSalomao)
