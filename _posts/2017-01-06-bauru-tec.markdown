@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Bauru Tec"
+categories: bauru developers programacao
+link-telegram: https://t.me/joinchat/AAAAAD_T9LRcDxyPTWqZ2Q
+---
+Colaboração: Marcos Felipe (@omarkdev)
