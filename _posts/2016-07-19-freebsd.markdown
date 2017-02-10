@@ -2,7 +2,7 @@
 layout: post
 title:  "FreeBSD"
 categories: 
-link-telegram: https://goo.gl/cIDktA
+link-telegram: https://goo.gl/mzp7XT
 ---
 Bot para estudos do grupo “GrupoFreeBSD”
 https://telegram.me/GrupoFreeBSDbot
