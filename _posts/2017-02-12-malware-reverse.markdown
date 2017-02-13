@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Malware Reverse BR"
+categories: segurança da informação
+link-telegram: https://t.me/MalwareReverseBR
+---
+Grupo Brasileiro sobre Análise de Malwares e Engenharia Reversa. Participe do nosso projeto.
+
+Colaboração: Ialle Teixeira (@ironbits)
