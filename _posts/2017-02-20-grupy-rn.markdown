@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Grupy-RN (Grupo de Usuários Python)"
+categories: python
+link-telegram: https://telegram.me/GrupyRN
+---
+Colaboração: Hudson Brendon (@hudsonbrendon)
