@@ -2,6 +2,6 @@
 layout: post
 title:  "Brasil Linux"
 categories: jekyll update
-link-telegram: https://telegram.me/brasillinux
+link-telegram: https://t.me/BrasilLinux
 ---
 Colaboração: Gabriel CoGUMm (@CoGUMm)
