@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "GNU/Linux"
+categories: GNU/Linux, discussões sobre todas distribuições.
+link-telegram: https://t.me/joinchat/AAAAAEIy9o9Hi8tICWi1dQ
+---
+Colaboração: Jirrez Matheus (@jirrez)
