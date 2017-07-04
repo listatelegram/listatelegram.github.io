@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "EmberBR"
+categories: jekyll update
+link-telegram: https://t.me/EmberBR
+---
+Grupo de Desenvolvedores EmberJS no Brasil
+Colaboração: Marcelito Costa (@marcelitocs)
