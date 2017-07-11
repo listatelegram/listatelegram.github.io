@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Vala - Linguagem de Programação"
+categories: 
+link-telegram: https://t.me/Vala_BR
+---
+Contribuição: Robert San (@robertsanseries)
