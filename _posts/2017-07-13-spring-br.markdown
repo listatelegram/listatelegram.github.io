@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Spring Brasil"
+categories: java spring framework
+link-telegram: https://telegram.me/springbr
+---
+Grupo brasileiro para discussões e soluções de problemas com as tecnologias Spring.
+Colaboração: Bruno D. Souza (@brunodsouza)
