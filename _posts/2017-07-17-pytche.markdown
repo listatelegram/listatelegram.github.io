@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PyTche"
+categories: 
+link-telegram: https://t.me/pytche
+---
+Grupo de usuários Python do sul do Brasil.
+Contribuição: Matheus Henrique de Souza (@matheus-souza)
