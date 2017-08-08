@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "PHP PE"
+categories: PHP
+link-telegram: https://t.me/joinchat/AAAAAAbPsF54IRykhyibVg
+---
+Colaboração: Victor Hugo (@victorhsanjos)
