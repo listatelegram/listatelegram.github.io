@@ -2,6 +2,6 @@
 layout: post
 title:  "Debian BR"
 categories: jekyll update
-link-telegram: https://telegram.me/debianbr
+link-telegram: 
 ---
-Colaboração: Gabriel CoGUMm (@CoGUMm)
+Colaboração: 
