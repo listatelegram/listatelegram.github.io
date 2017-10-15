@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Somos KDE (Canal)"
+categories: KDE
+link-telegram: https://t.me/somos_kde
+---
+Canal com posts de blogs da comunidade KDE em português.
