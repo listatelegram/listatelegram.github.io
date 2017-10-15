@@ -2,10 +2,12 @@
 layout: default
 ---
 
+{% assign ordem_grupos = (site.posts | sort: 'title') %}
+
 <div class="home">
   <div class="tituloLista">Lista dos Grupos
   </div>
-  {% for post in site.posts%}
+  {% for post in ordem_grupos %}
   <div class="post">
     <div class="postDay">
       {{post.tag}}
