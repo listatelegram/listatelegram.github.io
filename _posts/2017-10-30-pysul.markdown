@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Python Sul"
+categories: python
+link-telegram: https://t.me/PythonSulBR
+---
+Colaboração: Monalisa Mello
