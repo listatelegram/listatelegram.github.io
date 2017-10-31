@@ -2,6 +2,6 @@
 layout: post
 title:  "Qt Brasil"
 categories: Qt
-link-telegram: https://t.me/joinchat/BO3BR0OfUEl7KASYu4D7Pw
+link-telegram: https://t.me/qtbrasil
 ---
 Comunidade Qt no Brasil
