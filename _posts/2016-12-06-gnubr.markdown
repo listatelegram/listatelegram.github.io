@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "GNU BR - Software Livre na perspectiva ética"
+categories: SL
+link-telegram: https://telegram.me/gnubr
+---
+Colaboração: Aurélio A. Heckert (@aurium)

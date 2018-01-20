@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Ionic 2"
+categories: jekyll update
+link-telegram: https://telegram.me/ionic2br
+---
+Colaboração: Victor Hugo Rocha (@victorhugorch)

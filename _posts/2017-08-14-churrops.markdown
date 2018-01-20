@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ChurrOps on DevOps"
+categories: jekyll update
+link-telegram: https://t.me/churrops
+---
+Colaboração: Rodrigo Floriano de Souza (@rdglinux)

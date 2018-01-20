@@ -1,0 +1,8 @@
+---
+layout: post
+title: PHPRio
+categories: jekyll update
+link-telegram: https://telegram.me/phprio
+---
+Grupo regional de desenvolvedores PHP do Rio de Janeiro e Grande Rio, o [PHPRio](http://php.rio).
+Contribuição: Igor Santos (@igorsantos07)

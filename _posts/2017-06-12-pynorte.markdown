@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PyNorte"
+categories: 
+link-telegram: https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA
+---
+Grupo no Telegram do PyNorte - Grupo de usuários Python do Norte do Brasil.
+Contribuição: Fabio C. Barrionuevo (@luzfcb)

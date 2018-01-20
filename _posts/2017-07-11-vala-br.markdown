@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Vala Brasil"
+categories: linguagem de programação
+link-telegram: https://t.me/Vala_BR
+---
+Uma linguagem de programação moderna, rápida e de código aberto. Colaboração: Robert San (@robertsanseries)

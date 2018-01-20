@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Asciidoc International"
+categories: jekyll update, text, editor
+link-telegram: https://t.me/asciidoc
+---
+Colaboração: Cláudio "Patola" Sampaio (@makerlinux)
