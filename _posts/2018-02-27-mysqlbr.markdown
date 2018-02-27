@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "MySQL Brasil"
+categories: 
+link-telegram: https://telegram.me/mysqlbr
+---
+Colaboração: José Arthur Benetasso Villanova (@azlev)
