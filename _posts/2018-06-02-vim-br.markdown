@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "VIM-BR"
+categories: jekyll update
+link-telegram: https://telegram.me/vimbr
+---
+Colaboração: Fernando Guisso (@fguisso)
