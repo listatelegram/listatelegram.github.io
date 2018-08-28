@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "C# ALM DevOps"
+title:  "JA - DevOps"
 categories: jekyll update
-link-telegram: https://telegram.me/Devnet1
+link-telegram: https://telegram.me/JAdevops
 ---
 Colaboração: Julio Arruda MVP (@julioarrudac)
