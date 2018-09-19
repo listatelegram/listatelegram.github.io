@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Emacs Brasil"
+categories: emacs, elisp, editor de texto
+link-telegram: https://t.me/emacsBr
+---
+Grupo dedicado a discussões relacionadas ao editor de texto emacs.
