@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Node.js Brasil"
-categories: Node.js, Javascript, Development
-link-telegram: https://telegram.me/NodejsBR
----
-Colaboração: Aurélio A. Heckert (@aurium)
