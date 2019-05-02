@@ -2,6 +2,6 @@
 layout: post
 title:  "Emacs Brasil"
 categories: emacs, elisp, editor de texto
-link-telegram: https://t.me/emacsBr
+link-telegram: https://t.me/emacsbrasil
 ---
-Grupo dedicado a discussões relacionadas ao editor de texto emacs.
+Grupo dedicado a discussões relacionadas ao editor de texto emacs, Hacker Culture, Lisp e seus dialetos, o Projeto GNU e FOSS em geral.
