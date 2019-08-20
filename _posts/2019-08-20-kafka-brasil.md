@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kafka Brasil"
-categories: Banco de Dados
+categories: Sistema Distribuido
 link-telegram: https://t.me/kafkabr
 ---
 Colaboração: [Matheus Catarino](https://github.com/kassane)
