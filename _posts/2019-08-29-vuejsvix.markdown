@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Vue.js Vix"
+categories: javascript vuejs
+link-telegram: https://t.me/vuejsvix
+---
+Colaboração: Jeudi Prando (@jeudi)
