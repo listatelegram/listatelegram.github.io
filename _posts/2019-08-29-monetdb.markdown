@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "MonetDB Brasil"
+categories: db nosql columnstore
+link-telegram: https://t.me/monetdb
+---
+Colaboração: Jeudi Prando (@jeudi)
