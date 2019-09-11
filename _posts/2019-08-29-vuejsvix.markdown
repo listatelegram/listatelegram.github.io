@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Vue.js Vix"
+title:  "Vue.js Vix 👩🏻‍💻👨🏾‍💻"
 categories: javascript vuejs
 link-telegram: https://t.me/vuejsvix
 ---
+Grupo de Vuejs Web Developers de Vitória-ES
 Colaboração: Jeudi Prando (@jeudi)
