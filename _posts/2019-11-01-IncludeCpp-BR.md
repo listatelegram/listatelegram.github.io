@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "IncludeCpp Brasil"
+title:  "IncludeC++ Brasil"
 categories: C++
 link-telegram: https://t.me/includecppbr
 ---
-Grupo focado em C++ (inspirado na comunidade [IncludeCpp](https://includecpp.org))
+Grupo focado em C++ (inspirado na comunidade [IncludeC++](https://includecpp.org))
 Colaboração/Mantenedor: Patrick José Pereira (@patrickelectric)
