@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Dojo Rio"
+categories: Web Development
+link-telegram: https://t.me/DojoRio
+---
+Colaboração: James Peres (@jamesperes)

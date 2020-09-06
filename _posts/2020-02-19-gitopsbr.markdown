@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GitOps Brasil"
+categories: jekyll update
+link-telegram: https://telegram.me/gitopsbr
+---
+Grupo para discutir, compartilhar conhecimentos e cases sobre o “jeitão” GitOps de desenvolver software, seja bem-vindo!
+
+Colaboração: Tiago Rocha

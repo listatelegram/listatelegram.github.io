@@ -581,3 +581,8 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.riptales {
+  position: fixed;
+  top: 0;
+  right: 0; }

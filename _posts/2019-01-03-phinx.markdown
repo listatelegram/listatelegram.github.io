@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Phinx Brasil"
+categories: PHP
+link-telegram: https://telegram.me/PhinxBrasil
+---
+Grupo destinado para tirar dúvidas e trocar conhecimentos sobre a biblioteca Phinx de modo a versionar a estrutura do banco de dados
+Colaboração: Reginaldo (@Saitam10)
+
+

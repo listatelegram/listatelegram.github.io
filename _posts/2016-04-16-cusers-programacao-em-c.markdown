@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "c'users (Programação em C)"
+title:  "C users (Programação em C)"
 categories: 
-link-telegram: https://telegram.me/joinchat/B9C6HQLFGOwlCUTSJdaE7A
+link-telegram: https://t.me/c_user
 ---
 Contribuição: André Luiz Alves (@andrentfs)
 

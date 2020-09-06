@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "GruPy-PR (Grupo de Usuários Python do Paraná)"
+categories: jekyll update
+link-telegram: https://telegram.me/grupy_pr
+---
+Colaboração: Paulo Santana (@phls00)

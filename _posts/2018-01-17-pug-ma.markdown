@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PUG-MA"
+categories: jekyll update
+link-telegram: https://t.me/pugma
+---
+Python Users Group do Estado do Maranhão.
+
+Colaboração: Atmos Maciel (@atmosmaciel)
