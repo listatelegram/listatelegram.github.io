@@ -2,6 +2,6 @@
 layout: post
 title:  "Wireguard Brasil"
 categories: redes
-link-telegram: https://t.me/wireguarbrasil
+link-telegram: https://t.me/wireguardbrasil
 ---
 Grupo destinado a utilização do Wireguard VPN
